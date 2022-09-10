@@ -1,0 +1,8 @@
+# ninja log v5
+1	128	1662680039	/lnet/troja/work/people/bhattacharya/MTM/fairseq/build/temp.linux-x86_64-3.6/fairseq/clib/libbleu/module.o	418b95f185c9a7db
+1	376	1662680039	/lnet/troja/work/people/bhattacharya/MTM/fairseq/build/temp.linux-x86_64-3.6/fairseq/clib/libbleu/libbleu.o	6961a7e6d267ac3e
+1	3944	1662680043	/lnet/troja/work/people/bhattacharya/MTM/fairseq/build/temp.linux-x86_64-3.6/fairseq/data/data_utils_fast.o	2aba2d091f5ff190
+0	4018	1662680047	/lnet/troja/work/people/bhattacharya/MTM/fairseq/build/temp.linux-x86_64-3.6/fairseq/data/token_block_utils_fast.o	d2122255955e92d8
+1	21091	1662680069	/lnet/troja/work/people/bhattacharya/MTM/fairseq/build/temp.linux-x86_64-3.6/fairseq/clib/libbase/balanced_assignment.o	97ebbad93d832571
+1	17533	1662680087	/lnet/troja/work/people/bhattacharya/MTM/fairseq/build/temp.linux-x86_64-3.6/fairseq/clib/libnat/edit_dist.o	fe04320dc829e594
+1	20819	1662680108	/lnet/troja/work/people/bhattacharya/MTM/fairseq/build/temp.linux-x86_64-3.6/examples/operators/alignment_train_cpu.o	6de47fd7d85758c7
